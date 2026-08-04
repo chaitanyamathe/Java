@@ -1,0 +1,19 @@
+class ----> lass = extends
+class ---> interface = implements
+interface --> interface = extends
+interface ---> class = not possible
+=====================================
+interface Test1{
+void print();
+}
+interface Test2 extends Test1{
+void print2();
+}
+interface Test3 extends Test2{
+void print3();
+}
+interface Test4 extends Test1,Test2{
+
+void Hello();
+}
+
