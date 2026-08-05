@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Linearsearchconflict1{
+class Linearsearchconflict2{
 public static void main(String args[]){
 int[] a=new int[5];
 int flag=0;
