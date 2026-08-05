@@ -17,5 +17,5 @@ System.out.println("The given string is not a palindrome  :"+rev);
 }
 }
 }
-
+//
 
