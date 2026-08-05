@@ -1,4 +1,4 @@
-class VariableDemo
+class VariableDemoo
 {
 	int instance_var;
 	static double class_var;
