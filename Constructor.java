@@ -2,9 +2,7 @@ class Constructor
 {
 	int key;
 	
-	Constructor(int num){
-		key=num;
-	}
+	
 	Constructor(){
 		key=24;
 	}
