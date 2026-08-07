@@ -1,5 +1,5 @@
 //java program to multiply two integer values
-class Multiply
+/*class Multiply
 {
 	public static void main(String ar[])
 	{
@@ -9,4 +9,4 @@ class Multiply
 		c=a*b;
 		System.out.print("Product of "+a+" and "+b+" is "+c);
 	} 
-}
+}*/
