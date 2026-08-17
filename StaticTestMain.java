@@ -29,4 +29,4 @@ class StaticTestMain
 		StaticTest test3=new StaticTest();
 		test3.display();
 	}
-}
+}//
