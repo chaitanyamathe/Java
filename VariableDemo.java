@@ -18,4 +18,4 @@ class VariableDemoo
 		System.out.println("class variable: "+class_var);
 
 	}
-}
+}//
